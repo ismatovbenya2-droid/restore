@@ -18,7 +18,7 @@ a {
     min-height: 720px;
     background:
         linear-gradient(rgba(37,43,66,0.55), rgba(37,43,66,0.55)),
-        url("./1.jpg");
+        url("./1.png");
     background-size: cover;
     background-position: center;
     color: white;
@@ -260,7 +260,7 @@ a {
     font-weight: 700;
 }
 
-/* REVIEWS */
+
 
 .main13 {
     width: 330px;
@@ -289,7 +289,7 @@ a {
     border-radius: 50%;
 }
 
-/* FAQ */
+
 
 .main15 {
     width: 74%;
@@ -327,7 +327,7 @@ a {
     line-height: 1.5;
 }
 
-/* PRICING */
+
 
 .main19,
 .main20 {
